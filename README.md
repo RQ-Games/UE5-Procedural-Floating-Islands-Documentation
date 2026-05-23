@@ -60,7 +60,7 @@ all driven by reusable data assets, directly in the editor or at runtime in your
 **Blueprint and multiplayer ready.** Full Blueprint API with state queries and events. Key properties are replicated, share a seed across the network and every client builds the same island independently.
 
 ## Getting Started
-1. Enable the **Procedural Floating Islands** plugin in your project settings.
+1. Enable the **Procedural Floating Islands** plugin in your project. You may need a restart.
 2. In the Content Browser, right-click and open the **Procedural Floating Island (PFI)** category.
 3. Create a **PFI Data** asset and open it. A live preview appears immediately.
 4. Drag a **PFI Actor** into your level and assign the PFI Data asset.
